@@ -1,2 +1,1 @@
-My first readme
-My fist readme
+I am enjoying my second git project
